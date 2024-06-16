@@ -2,9 +2,6 @@
 <h3 align="center">A passionate developer from Italy</h3>
 
 - 🌱 I’m currently learning **Unity**
-
-- 👨‍💻 All of my projects are available at [frapiocov.github.io](frapiocov.github.io)
-
 - 📫 How to reach me **francescop.covino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
